@@ -71,6 +71,9 @@ Visualized 3 sample images per folder (Train, Valid, Test) to assess class repre
 ![download](https://github.com/user-attachments/assets/b1a8df04-c5a3-443d-8fac-7231bae8fe7f)
 ![download](https://github.com/user-attachments/assets/457b65a3-f20a-42bb-88d6-1db4c2c8fef4)
 
+## 🔹 Model Limitations
+Despite stable training losses and robust architecture, the model's performance shows variability due to class imbalance, particularly the underrepresentation of flooded_building instances in the dataset. This skewed distribution led to uneven learning, where the model consistently favored more frequent classes, resulting in suboptimal recall and lower average precision across minority classes—even with augmentation strategies applied.
+
 ## 🔹 Business Use Cases
 This object detection system can assist: <br/>
 - Disaster Response Agencies: Automatically identify people and affected infrastructure to guide rescue operations.
