@@ -65,6 +65,14 @@ Visualized 3 sample images per folder (Train, Valid, Test) to assess class repre
 
 ![download](https://github.com/user-attachments/assets/1fd2207a-7273-451e-bc6d-3c79a3b417c1)
 
+#### - Visualized F1 Curve
+
+![F1_curve](https://github.com/user-attachments/assets/a396672e-1b34-43bb-b7d2-5cee6714df66)
+
+#### - Visualized PR Curve
+
+![PR_curve](https://github.com/user-attachments/assets/829e5b37-3dc9-46d8-a28e-b5674f08258d)
+
 #### - Ran prediction on test images
 
 ![download](https://github.com/user-attachments/assets/e7848d11-8129-4783-ad3f-89b3fc022952)
