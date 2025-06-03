@@ -82,7 +82,7 @@ Visualized 3 sample images per folder (Train, Valid, Test) to assess class repre
 ## 🔹 Model Limitations
 Despite stable training losses and robust architecture, the model's performance shows variability due to class imbalance, particularly the underrepresentation of flooded_car instances in the dataset. This skewed distribution led to uneven learning, where the model consistently favored more frequent classes, resulting in suboptimal recall and lower average precision across minority classes—even with augmentation strategies applied.
 
-## 🔹 Business Use Cases
+## 🔹 Use Cases
 This object detection system can assist: <br/>
 - Disaster Response Agencies: Automatically identify people and affected infrastructure to guide rescue operations.
 - Insurance Companies: Automate damage assessment from drone images for faster claims processing.
