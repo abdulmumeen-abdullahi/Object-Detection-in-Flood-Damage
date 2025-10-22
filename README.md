@@ -98,9 +98,3 @@ This object detection system can assist: <br/>
 - Allocation of emergency resources
 - Long-term planning and mitigation strategies
 - Contributes to SDG 1: No Poverty and SDG 2: Zero Hunger by protecting livelihoods and access to essentials in post-flood recovery.
-
-================================================= <br/>
-Abdullahi Olalekan Abdulmumeen <br/>
-Applied Data Scientist <br/>
-olalekanabdulmumeen3@gmail.com <br/>
-+234 705 305 3024
